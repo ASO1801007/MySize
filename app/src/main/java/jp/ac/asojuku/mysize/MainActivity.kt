@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onResume(){
         super.onResume();
-        //共有プリファレンスの取得
+        //共有プリファレンスの取得う
         val pref = PreferenceManager.getDefaultSharedPreferences(this);
         //共有プリファレンスのいんすたんすから4つの保存済みの値を取り出す
         val editNeck = pref.getString("NECK","");

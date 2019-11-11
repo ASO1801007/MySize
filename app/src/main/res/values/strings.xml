@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySize</string>
+    <string name="neckHint">首回り</string>
+    <string name="sleeveHint">裄丈</string>
+    <string name="waistHint">胴回り</string>
+    <string name="inseamHint">股下</string>
+    <string name="saveText">保存</string>
+    <string name="heightText">Height</string>
+    <string name="heightDeafultValue">140</string>
+    <string name="HomeText">HOME</string>
+    <string name="redioValue">150</string>
+    <string name="height2_value">160</string>
+    <string name="height1_value">150</string>
+    <string name="height3_value">170</string>
+    <string name="height4_value">180</string>
+</resources>
